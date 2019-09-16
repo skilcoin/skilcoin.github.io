@@ -1,4 +1,4 @@
 ## Interesting links
 
-- https://tonedear.com/ - Ear Training Practice
-- http://www.jezzamon.com/fourier - An Interactive Introduction to Fourier Transforms 
+- [Ear Training Practice](https://tonedear.com)
+- [An Interactive Introduction to Fourier Transforms](http://www.jezzamon.com/fourier)

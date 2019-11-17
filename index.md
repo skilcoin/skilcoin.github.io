@@ -2,3 +2,4 @@
 
 - [Ear Training Practice](https://tonedear.com)
 - [An Interactive Introduction to Fourier Transforms](http://www.jezzamon.com/fourier)
+- [Using PostgreSQL as a job queue](https://gist.github.com/chanks/7585810) -- uses [SKIP LOCKED](https://www.2ndquadrant.com/en/blog/what-is-select-skip-locked-for-in-postgresql-9-5/) option

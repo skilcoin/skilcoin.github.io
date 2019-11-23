@@ -8,3 +8,9 @@
 
 - [Regex Crossword](https://regexcrossword.com)
 - [The Deadlock Empire](https://deadlockempire.github.io)
+
+## Shell
+
+- [Bash Style Guide](https://github.com/bahamas10/bash-style-guide)
+- [Data Science on the Linux Command Line](https://blog.robertelder.org/data-science-linux-command-line)
+
